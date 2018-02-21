@@ -4,7 +4,7 @@ version '1.0-SNAPSHOT'
 apply plugin: 'java'    //Q1
 
 apply plugin: 'idea'
-apply from: 'mytasks.gradle'    //q6
+apply from: 'mytasks.gradle'    //Q6
 sourceCompatibility = 1.8
 
 repositories {
