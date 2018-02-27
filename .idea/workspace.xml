@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c136936f-5658-4a9f-9b71-b413c2e14ce1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/demo/hello.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/demo/newfile1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/file1.xml" afterPath="" />
-    </list>
+    <list default="true" id="c136936f-5658-4a9f-9b71-b413c2e14ce1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,17 +19,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-33">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="273">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mytasks.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mytasks.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mytasks.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -518,12 +514,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519715600638</updated>
-      <workItem from="1519715603844" duration="392000" />
+      <workItem from="1519715603844" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392000" />
+    <option name="totallyTimeSpent" value="810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -570,14 +566,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -590,6 +578,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
