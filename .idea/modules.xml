@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgradle.iml" filepath="$PROJECT_DIR$/.idea/modules/bgradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bgradle_main.iml" group="bgradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bgradle_test.iml" group="bgradle" />
+    </modules>
+  </component>
+</project>
